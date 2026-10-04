@@ -66,3 +66,13 @@ This is a classical lexical retrieval baseline. It does not understand semantic 
 ## Academic note
 
 This is intentionally a small, interpretable baseline that can be extended into a rigorous Information Retrieval experiment.
+
+## Demo
+
+### Research Search
+
+![Semantic Research Search Demo](demo-search.png)
+
+### Retrieval-Augmented Generation Query
+
+![RAG Search Demo](demo-rag.png)
